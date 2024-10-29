@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d7ebca98765da103db198eabbbb3599" label="Market Stage" max_length="40" name="x_snc_gs1_datamo_0_market_stage" type="collection">
+        <element label="Product Reference" max_length="32" name="product_reference" reference="x_snc_gs1_datamo_0_core_product" type="reference"/>
+        <element display="true" label="Stage Name" max_length="256" name="stage_name" type="string"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Stage Conditions" max_length="4000" name="stage_conditions" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="product_reference"/>
+        </index>
+    </element>
+</database>

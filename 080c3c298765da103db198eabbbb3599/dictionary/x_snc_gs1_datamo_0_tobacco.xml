@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="858249ad8765da103db198eabbbb3509" extends="x_snc_gs1_datamo_0_core_product" label="Tobacco" max_length="40" name="x_snc_gs1_datamo_0_tobacco" type="collection">
+        <element label="Tobacco Content (Description)" max_length="4000" name="tobacco_content" type="string"/>
+        <element label="Nicotine Level" max_length="38" name="nicotine_level" type="decimal"/>
+    </element>
+</database>

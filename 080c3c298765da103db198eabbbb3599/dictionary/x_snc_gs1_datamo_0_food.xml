@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e310452d8765da103db198eabbbb3587" extends="x_snc_gs1_datamo_0_core_product" label="Food" max_length="40" name="x_snc_gs1_datamo_0_food" type="collection">
+        <element label="Alergen Type Code" max_length="40" name="alergen_type_code" type="string"/>
+        <element label="Nutrient Type Code" max_length="40" name="nutrient_type_code" type="string"/>
+        <element label="Country of Origin Code" max_length="32" name="country_of_origin_code" reference="core_country" type="reference"/>
+        <index name="index">
+            <element name="country_of_origin_code"/>
+        </index>
+    </element>
+</database>

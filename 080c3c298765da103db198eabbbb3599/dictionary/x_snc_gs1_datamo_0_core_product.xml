@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="312cbc298765da103db198eabbbb35a1" label="Core Product" max_length="40" name="x_snc_gs1_datamo_0_core_product" type="collection">
+        <element label="Product Hierarchy Level Code" max_length="40" name="product_hierarchy_level_code" type="string"/>
+        <element label="Consumer Unit Indicator" max_length="40" name="consumer_unit_indicator" type="boolean"/>
+        <element label="Product Name" max_length="40" name="product_name" type="string"/>
+        <element label="Manufacturer GLN" max_length="32" name="manufacturer_gln" reference="x_snc_gs1_datamo_0_party" type="reference"/>
+        <element label="Brand Owner GLN" max_length="32" name="brand_owner_gln" reference="x_snc_gs1_datamo_0_party" type="reference"/>
+        <element label="Base Unit Indicator" max_length="40" name="base_unit_indicator" type="boolean"/>
+        <element label="Orderable Indicator" max_length="40" name="orderable_indicator" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Data Provider GLN" max_length="32" name="data_provider_gln" reference="x_snc_gs1_datamo_0_party" type="reference"/>
+        <element label="Global Trade Item Number (GTIN)" max_length="40" name="gtin" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="manufacturer_gln"/>
+        </index>
+        <index name="index3">
+            <element name="brand_owner_gln"/>
+        </index>
+        <index name="index4">
+            <element name="data_provider_gln"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="party_type" table="x_snc_gs1_datamo_0_party" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>party_type</element>
+            <name>x_snc_gs1_datamo_0_party</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:33:26</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>party_type</sys_name>
+            <sys_package display_value="GS1 Datamodel" source="x_snc_gs1_datamo_0">080c3c298765da103db198eabbbb3599</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GS1 Datamodel">080c3c298765da103db198eabbbb3599</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gs1_datamo_0_party_party_type</sys_update_name>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:33:26</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>party_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brand Owner</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_party</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:33:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:33:25</sys_updated_on>
+            <value>brand_owner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>party_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manufacurer</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_party</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:33:26</sys_updated_on>
+            <value>manufacurer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>party_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Distributor</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_party</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:33:26</sys_updated_on>
+            <value>distributor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>party_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Provider</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_party</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:33:26</sys_updated_on>
+            <value>data_provider</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

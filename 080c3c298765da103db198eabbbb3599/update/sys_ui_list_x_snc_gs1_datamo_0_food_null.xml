@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_gs1_datamo_0_food" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_snc_gs1_datamo_0_food" element="NULL" name="x_snc_gs1_datamo_0_food" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8820812d8765da103db198eabbbb35bf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_id>0420812d8765da103db198eabbbb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_snc_gs1_datamo_0_food" element="NULL" name="x_snc_gs1_datamo_0_food" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8820812d8765da103db198eabbbb35bf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_id>0820812d8765da103db198eabbbb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_snc_gs1_datamo_0_food" element="NULL" name="x_snc_gs1_datamo_0_food" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8820812d8765da103db198eabbbb35bf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_id>0c20812d8765da103db198eabbbb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_snc_gs1_datamo_0_food" element="NULL" name="x_snc_gs1_datamo_0_food" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8820812d8765da103db198eabbbb35bf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_id>0020812d8765da103db198eabbbb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_snc_gs1_datamo_0_food" element="NULL" name="x_snc_gs1_datamo_0_food" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8820812d8765da103db198eabbbb35bf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_id>0420812d8765da103db198eabbbb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_gs1_datamo_0_food</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:44:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8820812d8765da103db198eabbbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gs1_datamo_0_food</sys_name>
+            <sys_package display_value="GS1 Datamodel" source="x_snc_gs1_datamo_0">080c3c298765da103db198eabbbb3599</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GS1 Datamodel">080c3c298765da103db198eabbbb3599</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_gs1_datamo_0_food_null</sys_update_name>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:44:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

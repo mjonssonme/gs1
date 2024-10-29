@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ada10d6d8765da103db198eabbbb355f" extends="x_snc_gs1_datamo_0_core_product" label="Alcoholic Beverage" max_length="40" name="x_snc_gs1_datamo_0_alcoholic_beverage" type="collection">
+        <element label="Alcohol Content" max_length="38" name="alcohol_content" type="decimal"/>
+        <element choice="1" label="Beverage Type" max_length="40" name="beverage_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Spirit" sequence="2" value="spirit"/>
+                <element inactive_on_update="false" label="Liqueur or Aperitif" sequence="3" value="liqueur_or_aperitif"/>
+                <element inactive_on_update="false" label="Cider or Perry" sequence="5" value="cider_or_perry"/>
+                <element inactive_on_update="false" label="Ready-to-Drink (RTD)" sequence="4" value="ready_to_drink_rtd"/>
+                <element inactive_on_update="false" label="Beer" sequence="0" value="beer"/>
+                <element inactive_on_update="false" label="Wine" sequence="1" value="wine"/>
+            </choice>
+        </element>
+    </element>
+</database>

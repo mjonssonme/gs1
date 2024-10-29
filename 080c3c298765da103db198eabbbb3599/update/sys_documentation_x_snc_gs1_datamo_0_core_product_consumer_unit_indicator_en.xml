@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="consumer_unit_indicator" label="Consumer Unit Indicator" language="en" table="x_snc_gs1_datamo_0_core_product">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>consumer_unit_indicator</element>
+            <help/>
+            <hint/>
+            <label>Consumer Unit Indicator</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_core_product</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:35:46</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Consumer Unit Indicator</sys_name>
+            <sys_package display_value="GS1 Datamodel" source="x_snc_gs1_datamo_0">080c3c298765da103db198eabbbb3599</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GS1 Datamodel">080c3c298765da103db198eabbbb3599</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_gs1_datamo_0_core_product_consumer_unit_indicator_en</sys_update_name>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:35:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8941856d8765da103db198eabbbb3515" extends="x_snc_gs1_datamo_0_core_product" label="Pet Food" max_length="40" name="x_snc_gs1_datamo_0_pet_food" type="collection">
+        <element label="Animal Nutrient Type Code" max_length="40" name="animal_nutrient_type_code" type="string"/>
+        <element label="Feeding Instructions" max_length="4000" name="feeding_instructions" type="string"/>
+    </element>
+</database>

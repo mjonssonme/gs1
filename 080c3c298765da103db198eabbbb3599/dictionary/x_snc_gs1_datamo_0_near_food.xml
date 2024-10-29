@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="83d0cd2d8765da103db198eabbbb3588" extends="x_snc_gs1_datamo_0_core_product" label="Near Food" max_length="40" name="x_snc_gs1_datamo_0_near_food" type="collection">
+        <element label="Usage Instructions" max_length="4000" name="usage_instructions" type="string"/>
+        <element label="Storage Instructions" max_length="4000" name="storage_instructions" type="string"/>
+    </element>
+</database>

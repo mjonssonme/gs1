@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="beverage_type" table="x_snc_gs1_datamo_0_alcoholic_beverage" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>beverage_type</element>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:56</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>beverage_type</sys_name>
+            <sys_package display_value="GS1 Datamodel" source="x_snc_gs1_datamo_0">080c3c298765da103db198eabbbb3599</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GS1 Datamodel">080c3c298765da103db198eabbbb3599</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gs1_datamo_0_alcoholic_beverage_beverage_type</sys_update_name>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beer</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:56</sys_updated_on>
+            <value>beer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wine</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:56</sys_updated_on>
+            <value>wine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spirit</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:56</sys_updated_on>
+            <value>spirit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Liqueur or Aperitif</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:56</sys_updated_on>
+            <value>liqueur_or_aperitif</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ready-to-Drink (RTD)</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:57</sys_updated_on>
+            <value>ready_to_drink_rtd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>beverage_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cider or Perry</label>
+            <language>en</language>
+            <name>x_snc_gs1_datamo_0_alcoholic_beverage</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2024-10-29 10:53:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2024-10-29 10:53:57</sys_updated_on>
+            <value>cider_or_perry</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

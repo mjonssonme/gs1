@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3d0df8698765da103db198eabbbb3519" label="Party" max_length="40" name="x_snc_gs1_datamo_0_party" type="collection">
+        <element label="Address 2" max_length="40" name="address_2" type="string"/>
+        <element label="ZIP Code" max_length="40" name="zip_code" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Address 1" max_length="40" name="address_1" type="string"/>
+        <element label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element label="Address 3" max_length="40" name="address_3" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element display="true" label="Party Name" max_length="40" name="party_name" type="string"/>
+        <element label="Party Global Location Number (GLN)" max_length="40" name="party_gln" type="string"/>
+        <element choice="1" label="Party Type" max_length="40" name="party_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data Provider" sequence="3" value="data_provider"/>
+                <element inactive_on_update="false" label="Distributor" sequence="2" value="distributor"/>
+                <element inactive_on_update="false" label="Manufacurer" sequence="1" value="manufacurer"/>
+                <element inactive_on_update="false" label="Brand Owner" sequence="0" value="brand_owner"/>
+            </choice>
+        </element>
+        <element label="Contact Phone" max_length="40" name="contact_phone" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
